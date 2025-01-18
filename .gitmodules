@@ -1,0 +1,3 @@
+[submodule "[ColormapCrameri]"]
+	path = [ColormapCrameri]
+	url = https://github.com/chadagreene/crameri
